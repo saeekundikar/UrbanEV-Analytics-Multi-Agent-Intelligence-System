@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.zip
+*.tmp
+.DS_Store
